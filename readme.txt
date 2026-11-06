@@ -1,6 +1,6 @@
 DayZ Chinook Added To Heli Crash Events Mod Files For Console and PC Community Servers Instructions & Terms Of Use
 
-When installed correctly these files will add Chinooks, and all varients of helicopter crashes, to Chernaeus, Livonia (Enoch) & Sakhal Maps. (Nasdara already has Chinooks in a seperate event.)
+When installed correctly these files will add Chinooks, and all varients of helicopter crashes, to Chernarus, Livonia (Enoch) & Sakhal Maps. (Nasdara already has Chinooks in a seperate event.)
 
 Limited Testing on PC Chernarus, Livonia & Sakhal Local Server, DAYZ Version 1.30 Nov 26.
 
